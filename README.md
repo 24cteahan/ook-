@@ -22,4 +22,4 @@ Ook- | Ook | Description
 ***ALL OPERATIONS MUST BE SEPERATED BY A SPACE***
 
 ## Usage
-`python.exe .\ookMinus.py .\my-ook-file.ook-`
+`ook-minus [ook- file]`
